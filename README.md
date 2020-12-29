@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:
 
-![Vansh's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=vansh983&count_private=true&hide=prs&include_all_commits=true)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/></code>
 <code><img height="20" src="https://nextjs.org/static/favicon/favicon-32x32.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"/></code>
