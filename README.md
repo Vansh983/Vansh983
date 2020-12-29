@@ -32,7 +32,5 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"/></code>
 
-## My Github Stats
 
-![Vansh's github stats](https://github-readme-stats.vercel.app/api?username=vansh983&count_private=true&hide=prs&include_all_commits=true)
 
