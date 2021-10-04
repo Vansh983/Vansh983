@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm [Vansh!](https://vanshsood.com) 😄
 
-#### 19 year old full stack developer proficient in Javascript, React and Node.js.
+#### 19 year old full stack developer.
 
 - 🏆 Google Code In 2018 Grand Prize Winner.
 - 💬 Reach out to me [here](mailto:emailofvansh@gmail.com).
