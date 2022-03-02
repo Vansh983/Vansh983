@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Vansh983/Vansh983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +18,7 @@ Here are some ideas to get you started:
 
 #### 19 year old full stack developer.
 
+- 🧑‍🎓 Undergraduate Computer Science student at DalU.
 - 🏆 Google Code In 2018 Grand Prize Winner.
 - 💬 Reach out to me [here](mailto:emailofvansh@gmail.com).
 
