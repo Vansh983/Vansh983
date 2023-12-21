@@ -27,4 +27,4 @@ Some things about me:
 - Google Code-In Grand Prize Winner
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh983&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh983&layout=donut&hide=php&theme=tokyonight))
