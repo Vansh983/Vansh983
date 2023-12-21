@@ -14,17 +14,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Some things about me:
-- Second-year BCS, Software Dev, TA at Dalhousie University
-- Tech coordinator for Shiftkey Labs and Faculty of Health
-- Linkedin Top Voice
-- Freelancing for over 6 years
-- Worked with 25+ startups and small businesses
-- Helped startups raise over $100,000 in funding
-- Founder of a web and mobile development agency
+# What am I currently doing?
+- CS student at Dalhousie University
+- Building internal dashboards for Dalhousie University as a Software Developer
+- Teaching Assistant for Data Structures and Algorithms + Intro to Web Development
+- Developing open source tech community with Shiftkey Labs
 - Empowering students to leverage freelancing with GigEmpower
+
+# Some recognitions
+- Linkedin Top Voice
 - AWS Certified Cloud Practitioner
 - Google Code-In Grand Prize Winner
 
+# What have I done in the past?
+- Worked with 25+ startups and small businesses
+- Helped startups raise over $100,000 in funding
+- Founder of a web and mobile development agency
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh983&layout=donut&hide=php&theme=tokyonight))
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh983&layout=donut&hide=php&theme=tokyonight)
