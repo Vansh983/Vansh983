@@ -20,13 +20,14 @@ Here are some ideas to get you started:
 
 ## What am I currently doing?
 - CS student at Dalhousie University
+- Building Bean, food tech startup solving productivity and waste management
 - Building internal dashboards for Dalhousie University as a Software Developer
 - Teaching Assistant for Data Structures and Algorithms + Intro to Web Development
 - Developing open source tech community with Shiftkey Labs
 - Empowering students to leverage freelancing with GigEmpower
 
 ## Some recognitions
-- Linkedin Top Voice
+- Linkedin Top Web Voice 2024
 - AWS Certified Cloud Practitioner
 - Google Code-In Grand Prize Winner
 
