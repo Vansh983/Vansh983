@@ -22,18 +22,15 @@ Here are some ideas to get you started:
 - CS student at Dalhousie University
 - Building Bean, food tech startup solving productivity and waste management
 - Building internal dashboards for Dalhousie University as a Software Developer
-- Teaching Assistant for Data Structures and Algorithms + Intro to Web Development
-- Developing open source tech community with Shiftkey Labs
-- Empowering students to leverage freelancing with GigEmpower
+- Lead Teaching Assistant for these courses: Mobile Computing, Server Side Scripting, Data Structures and Algorithms, Web Development.
+- Developing open source tech community with ShiftKey Labs (https://github.com/shiftkey-labs/)
 
 ## Some recognitions
 - Linkedin Top Web Voice 2024
-- AWS Certified Cloud Practitioner
+- AWS Solutions Architect Associate
 - Google Code-In Grand Prize Winner
 
 ## What have I done in the past?
 - Worked with 25+ startups and small businesses
 - Helped startups raise over $100,000 in funding
 - Founder of a web and mobile development agency
-
-
