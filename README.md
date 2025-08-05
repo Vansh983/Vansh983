@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 ## What have I done in the past?
 - Worked with 25+ startups and small businesses
-- Helped startups raise over $100,000 in funding
+- Helped startups raise over $300,000 in funding
 - Founder of a web and mobile development agency
