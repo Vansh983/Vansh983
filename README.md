@@ -19,14 +19,13 @@ Here are some ideas to get you started:
 -->
 
 ## What am I currently doing?
-- CS student at Dalhousie University
-- Building Bean, food tech startup solving productivity and waste management
-- Building internal dashboards for Dalhousie University as a Software Developer
-- Lead Teaching Assistant for these courses: Mobile Computing, Server Side Scripting, Data Structures and Algorithms, Web Development.
-- Developing open source tech community with ShiftKey Labs (https://github.com/shiftkey-labs/)
+- CS graduate - Dalhousie University
+- Building Bean, AI food tech startup solving productivity and waste management
+- Teaching students how to build AI-driven enterprises with AI2Market.
+- Developing Atlantic Canada's biggest open source tech community with ShiftKey Labs (https://github.com/shiftkey-labs/)
 
 ## Some recognitions
-- Linkedin Top Web Voice 2024
+- LinkedIn Top Web Voice 2024
 - AWS Solutions Architect Associate
 - Google Code-In Grand Prize Winner
 
@@ -34,3 +33,5 @@ Here are some ideas to get you started:
 - Worked with 25+ startups and small businesses
 - Helped startups raise over $300,000 in funding
 - Founder of a web and mobile development agency
+- Built internal dashboards for Dalhousie University as a Software Developer
+- Head Teaching Assistant for these courses: Mobile Computing, Server Side Scripting, Data Structures and Algorithms, Web Development.
